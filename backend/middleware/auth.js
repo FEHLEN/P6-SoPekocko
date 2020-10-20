@@ -1,7 +1,7 @@
 const jwt = require('jsonwebtoken'); 
 //Le module jsonwebtoken permet de créer un token
 
-//Middelware qui vérifie le token de l'utilisateur
+//Middleware qui vérifie le token de l'utilisateur
 module.exports = (req, res, next) => {
   try { 
     const token = req.headers.authorization.split(' ')[1];
