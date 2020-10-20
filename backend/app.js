@@ -17,7 +17,7 @@ const userRoute = require('./routes/user');
 //Connection à la base MongoDb
 //https://blog.impulsebyingeniance.io/gestion-de-la-securite-dans-mongodb/
 
-mongoose.connect('mongodb+srv://lilife:H2o4r7u8sCr1@cluster0.zdosb.mongodb.net/test?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://new_user1:S4e7c23uRE@cluster0.zdosb.mongodb.net/test?retryWrites=true&w=majority',
 //Accès new_user1:S4e7c23uRE avec seulement accès à cette base de donnée
 { useNewUrlParser: true,
     useUnifiedTopology: true})
