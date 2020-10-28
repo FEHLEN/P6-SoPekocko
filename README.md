@@ -6,8 +6,8 @@ Démarrer npm install pour avoir accès au serveur de développement. Rendez-vou
 
 
 Pour la fonctionnalité de l'API, merci d'installer dans le frontend :
-   npm install
-   npm install -g @angular/cli
+   npm install ;
+   npm install -g @angular/cli ;
    npm install node-sass
 
    Dans le backend le npm install ajoutera les modules nécessaires au fonctionnement selon la liste dans le package.json.
