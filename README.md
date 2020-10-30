@@ -2,7 +2,7 @@
 Le projet a été généré avec Angular CLI version 7.0.2.
 
 # Development server
-Démarrer npm install pour avoir accès au serveur de développement. Rendez-vous sur http://localhost:4200/.
+Démarrer npm install sur le frontend pour avoir accès au serveur de développement. Rendez-vous sur http://localhost:4200/.
 
 
 Pour la fonctionnalité de l'API, merci d'installer dans le frontend :
